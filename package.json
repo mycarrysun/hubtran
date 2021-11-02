@@ -1,0 +1,23 @@
+{
+  "name": "hubtran_challenge",
+  "version": "1.0.0",
+  "description": "This is the initial coding challenge for the HubTran interview process. You may complete this challenge in any language you like. The code you submit doesn't need to reflect the code you would write in production. We're more interested in you getting the job done. Once you have completed the challenge, please reply to the email that included the challenge url (not the email with the code attached) with an archive of your code. You have one hour to complete this challenge.",
+  "main": "index.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "mike@nextwebtoday.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "@babel/preset-typescript": "^7.16.0",
+    "@types/jest": "^27.0.2",
+    "babel-jest": "^27.3.1",
+    "jest": "^27.3.1",
+    "typescript": "^4.4.4"
+  }
+}
